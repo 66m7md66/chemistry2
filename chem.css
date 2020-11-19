@@ -1,0 +1,42 @@
+body
+{
+
+}
+#mainheader{text-shadow: 3px 3px #ffffff;}
+.main1
+{
+	background-image: url("background.png");
+	border-radius: 10%;
+	text-shadow: 1px 1px #444439;
+	background-size: cover;
+	text-align: center;
+	margin-top: 10%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+.main2
+{
+	background-color: #cfdbe9;
+	text-align: center;
+	height: 50%;
+	width: 50%;
+	margin: auto;
+	direction:rtl;
+}
+.main3
+{
+	background-image: url("background.png");
+	border-radius: 10%;
+	direction:rtl;
+	text-align: center;
+	margin-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 5%;
+}
+.foot
+{
+	margin-left: 2%;
+	margin-bottom: 2%;
+}
